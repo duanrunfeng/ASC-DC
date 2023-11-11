@@ -1,5 +1,5 @@
 # ASC-DC
-• Compressed file ASC-DC implements our ASC-DC Scheme.
+• Compressed file ASC-DC.7z implements our ASC-DC Scheme.
 
 • The main_np.m in Compressed file is the entry of program .
 
